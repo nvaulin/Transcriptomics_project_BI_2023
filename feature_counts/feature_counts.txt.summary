@@ -1,0 +1,15 @@
+Status	alignment/R1_0m.bam	alignment/R2_0m.bam	alignment/R1_30m.bam	alignment/R2_30m.bam
+Assigned	7283046	7982570	1401053	4972090
+Unassigned_Unmapped	520139	511726	66371	234542
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	1299822	1654208	306546	1180669
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	610913	626057	102674	380345
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	35722	35942	4176	15266
